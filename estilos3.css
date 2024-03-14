@@ -20,7 +20,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom, #8a00c1, #000000);
+    background: linear-gradient(180deg, rgb(177, 48, 177) 0%, rgb(7, 5, 8) 50%, rgb(177, 48, 177) 100%);
 }
 
 
